@@ -10,3 +10,5 @@ Usage is embedded in the script:
             --key API_KEY                Basecamp API Key
                                          See: https://zapier.com/help/basecamp-classic#how-get-started-basecamp-classic
             --project PROJECT_ID         Basecamp Project ID
+
+To use this script, first clone the repository, then run `bundle install`. Afterwards you can use `./sla.rb` to compute SLA requirements.
